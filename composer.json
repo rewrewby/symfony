@@ -19,7 +19,7 @@
         "symfony/event-dispatcher": ">=2.3,<4",
         "symfony/http-kernel": ">=2.3,<4",
         "doctrine/doctrine-cache-bundle": "~1.0",
-        "php-tmdb/api": "^2.0.14",
+        "php-tmdb/api": "dev-feature/guzzle-6",
         "twig/twig": "~1.11|~2.0"
     },
     "require-dev": {
